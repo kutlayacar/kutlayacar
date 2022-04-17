@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+
 <!--
 **kutlayacar/kutlayacar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+I'm Kutlay from Ankara-Turkey, located in Berlin-Germany. Currently studying for a master's degree in electrical engineering.
+
+
 
 Here are some ideas to get you started:
 
