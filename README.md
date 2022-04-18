@@ -1,22 +1,24 @@
-![hello-world](https://user-images.githubusercontent.com/98892946/163794677-73a7da4d-4a57-42a5-ba29-eb75acd65b11.gif)
+![output-onlinegiftools](https://user-images.githubusercontent.com/98892946/163804752-044313b7-0f58-478a-a22c-c5d1089635ea.gif)
+
+I'm Kutlay from Ankara-Turkey, located in Berlin-Germany. Currently studying for a master's degree in electrical engineering.
 
 ## ✏️ Languages:
 
-![c](https://img.shields.io/badge/C-FF0000?style=for-the-badge&logo=c&logoColor=white)
-![c++](https://img.shields.io/badge/C++%20-%2300599A.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![python](https://img.shields.io/badge/Python-%FFFF00.svg?&style=for-the-badge&logo=python&logoColor=white)
-
-
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![c++](https://img.shields.io/badge/C++%20-%2300599A.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white&color=2c9c91)
+![python](https://img.shields.io/badge/Python-%FFFF00.svg?&style=for-the-badge&logo=python&logoColor=white&color=8d3cac)
 
 ## 🔧 Tools:
-
+![jupyter](https://img.shields.io/badge/Jupyter-informational?&style=for-the-badge&logo=Jupyter&logoColor=white&color=F37626)
+![linux](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=d70a53)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=)
 
 ## 💻 WorkSpace
 ![macbook](https://img.shields.io/badge/apple-macbook%20pro%2013%202018-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white)
 
-
+## ⚡ GitHub Stats
 ![Kutlay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kutlayacar&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutlayacar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kutlayacar&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
